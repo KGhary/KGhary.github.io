@@ -1,0 +1,37 @@
+[
+    {
+        "title": "5 * 2 = " ,
+        "answer_1": "10" ,
+        "answer_2": "15" ,
+        "answer_3": "7" ,
+        "right_answer": "10"
+    },
+    {
+        "title": "8 * 2 = " ,
+        "answer_1": "12" ,
+        "answer_2": "16" ,
+        "answer_3": "10" ,
+        "right_answer": "16"
+    },
+    {
+        "title": "3 * 2 = " ,
+        "answer_1": "4" ,
+        "answer_2": "8" ,
+        "answer_3": "6" ,
+        "right_answer": "6"
+    },
+    {
+        "title": "10 * 2 = " ,
+        "answer_1": "24" ,
+        "answer_2": "20" ,
+        "answer_3": "12" ,
+        "right_answer": "20"
+    },
+    {
+        "title": "2 * 2 = " ,
+        "answer_1": "4" ,
+        "answer_2": "6" ,
+        "answer_3": "8" ,
+        "right_answer": "4"
+    }
+]
